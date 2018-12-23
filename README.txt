@@ -1,6 +1,6 @@
 These files are for listing all Minecraft items, depending on the version of Minecraft.
 
-oldItemNames.txt - Lists ALL material names for 1.8 - 1.12
+[b]oldItemNames.txt[b] - Lists ALL material names for 1.8 - 1.12
 
 newItemNames.txt - Lists ALL material names for 1.13
 
